@@ -21,6 +21,7 @@ Finally, we evaluate the performance of our model on the test set. We use metric
 ### Conclusion
 In this notebook, we have demonstrated the use of a decision tree classifier model to predict the risk of CHD. We have explored the dataset, preprocessed the data, built a model, and evaluated its performance. The notebook serves as an example of how machine learning techniques can be used to solve real-world problems in healthcare.
 
+
 ### Requirements
 This project is implemented in Python and requires the following libraries to be installed:
 
@@ -29,6 +30,7 @@ numpy
 sklearn
 Dataset
 The dataset used for this project is the BioLINCC heart disease dataset, which can be found in the ioLINCC website .
+
 ### Implementation
 
 The project consists of the following files:
